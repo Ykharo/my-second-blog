@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
         'NAME': 'Ykahro$db',                      # Or path to database file if using sqlite3.
         'USER': 'Ykahro',                      # Not used with sqlite3.
-        'PASSWORD': 'Franxpxp123',                  # Not used with sqlite3.
+        'PASSWORD': 'cleoxpxp123',                  # Not used with sqlite3.
         'HOST': 'Ykahro.mysql.pythonanywhere-services.com',                      # Set to empty string for localhost. Not used with sqlite3.
      
     
