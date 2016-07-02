@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'Ykahro$db',                      # Or path to database file if using sqlite3.
         'USER': 'Ykahro',                      # Not used with sqlite3.
         'PASSWORD': 'Franxpxp123',                  # Not used with sqlite3.
-        'HOST': 'mysql.server',                      # Set to empty string for localhost. Not used with sqlite3.
+        'HOST': 'Ykahro.mysql.pythonanywhere-services.com',                      # Set to empty string for localhost. Not used with sqlite3.
      
     
         #'NAME': 'mysite',                      # Or path to database file if using sqlite3.
